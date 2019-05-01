@@ -1,0 +1,7 @@
+D:\B3\5 CREATED SW\2-MY PROJECTS\ReflectionDemoSLN\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+D:\B3\5 CREATED SW\2-MY PROJECTS\ReflectionDemoSLN\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+D:\B3\5 CREATED SW\2-MY PROJECTS\ReflectionDemoSLN\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+D:\B3\5 CREATED SW\2-MY PROJECTS\ReflectionDemoSLN\ReflectionDemo\obj\Debug\ReflectionDemo.csprojAssemblyReference.cache
+D:\B3\5 CREATED SW\2-MY PROJECTS\ReflectionDemoSLN\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+D:\B3\5 CREATED SW\2-MY PROJECTS\ReflectionDemoSLN\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+D:\B3\5 CREATED SW\2-MY PROJECTS\ReflectionDemoSLN\ReflectionDemo\obj\Debug\ReflectionDemo.pdb
